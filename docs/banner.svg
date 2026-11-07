@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">DocFlow</title><desc id="desc">Согласование документов в Telegram</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#1e3560"/></linearGradient><linearGradient id="accent" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<circle cx="1140" cy="30" r="210" fill="#38bdf8" opacity=".06"/>
+<circle cx="990" cy="340" r="180" fill="#818cf8" opacity=".08"/>
+<text x="76" y="84" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">TELEGRAM DOCUMENT WORKFLOW</text>
+<text x="70" y="181" fill="#f8fafc" font-family="Arial,sans-serif" font-size="82" font-weight="700">DocFlow<tspan fill="#38bdf8">.</tspan></text>
+<text x="76" y="238" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="27">Согласование документов в Telegram</text>
+<text x="76" y="296" fill="#94a3b8" font-family="Arial,sans-serif" font-size="17">PYTHON  /  ASYNCIO  /  SQLITE  /  TELETHON</text>
+<rect x="960" y="85" width="150" height="184" rx="18" fill="#172943" stroke="#47678a" stroke-width="2"/>
+<path d="M994 130h82m-82 25h82m-82 25h46" stroke="#7dd3fc" stroke-width="7" stroke-linecap="round"/>
+<circle cx="1102" cy="246" r="43" fill="url(#accent)"/>
+<path d="m1082 246 14 14 26-29" fill="none" stroke="#0f172a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

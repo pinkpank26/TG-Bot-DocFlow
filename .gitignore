@@ -1,0 +1,47 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Personal data, databases, sessions and conversation persistence
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+sessions/
+temp_sessions/
+*.session
+*.session-*
+conversation_states*
+*.pickle
+*.pkl
+backups/
+uploads/
+exports/
+*.log
+logs/
+
+# Python environments and generated files
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local editor and OS files
+.DS_Store
+.idea/
+.vscode/

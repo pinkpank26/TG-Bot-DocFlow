@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==21.7
+telethon==1.39.0
+python-dotenv==1.0.1
+cryptography==43.0.3
+reportlab==4.4.9
